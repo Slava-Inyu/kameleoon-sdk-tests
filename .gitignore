@@ -1,0 +1,9 @@
+# -- Modules
+node_modules
+
+# -- Build Output
+build
+dist
+
+# -- Environment Specific
+.env
